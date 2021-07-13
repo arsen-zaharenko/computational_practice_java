@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.task5.org/gems" xsi:schemaLocation="http://www.task5.org/gems gems.xsd">
+    <gem id="am1">
+        <name>Аметист</name>
+        <preciousness>Полудрагоценный</preciousness>
+        <origin>Мексика</origin>
+        <visual_parameters>
+            <color>Красный</color>
+            <transparency>70</transparency>
+            <facets>7</facets>
+        </visual_parameters>
+        <value>14</value>
+    </gem>
+    <gem id="al1">
+        <name>Изумруд</name>
+        <preciousness>Драгоценный</preciousness>
+        <origin>Индия</origin>
+        <visual_parameters>
+            <color>Зеленый</color>
+            <transparency>30</transparency>
+            <facets>5</facets>
+        </visual_parameters>
+        <value>4.2</value>
+    </gem>
+    <gem id="rub1">
+        <name>Рубин</name>
+        <preciousness>Драгоценный</preciousness>
+        <origin>Россия</origin>
+        <visual_parameters>
+            <color>Алый</color>
+            <transparency>60</transparency>
+            <facets>15</facets>
+        </visual_parameters>
+        <value>3.6</value>
+    </gem>
+    <gem id="zit1">
+        <name>Цитрин</name>
+        <preciousness>Полудрагоценный</preciousness>
+        <origin>США</origin>
+        <visual_parameters>
+            <color>Жёлтый</color>
+            <transparency>90</transparency>
+            <facets>13</facets>
+        </visual_parameters>
+        <value>13.4</value>
+    </gem>
+</gems>
